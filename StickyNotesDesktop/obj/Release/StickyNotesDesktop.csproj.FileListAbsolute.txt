@@ -1,0 +1,26 @@
+C:\Users\korre\Desktop\shit\StickyNotesDesktop\StickyNotesDesktop\bin\Release\StickyNotesDesktop.exe.config
+C:\Users\korre\Desktop\shit\StickyNotesDesktop\StickyNotesDesktop\bin\Release\StickyNotesDesktop.exe
+C:\Users\korre\Desktop\shit\StickyNotesDesktop\StickyNotesDesktop\obj\Release\StickyNotesDesktop.Form1.resources
+C:\Users\korre\Desktop\shit\StickyNotesDesktop\StickyNotesDesktop\obj\Release\StickyNotesDesktop.Properties.Resources.resources
+C:\Users\korre\Desktop\shit\StickyNotesDesktop\StickyNotesDesktop\obj\Release\StickyNotesDesktop.csproj.GenerateResource.Cache
+C:\Users\korre\Desktop\shit\StickyNotesDesktop\StickyNotesDesktop\obj\Release\StickyNotesDesktop.exe
+C:\Users\korre\Desktop\shit\StickyNotesDesktop\StickyNotesDesktop\obj\Release\StickyNotesDesktop.pdb
+C:\Users\korre\Desktop\shit\StickyNotesDesktop\StickyNotesDesktop\obj\Release\StickyNotesDesktop.csprojResolveAssemblyReference.cache
+C:\Users\korre\Desktop\shit\StickyNotesDesktop\StickyNotesDesktop\bin\Release\StickyNotesDesktop.exe.manifest
+C:\Users\korre\Desktop\shit\StickyNotesDesktop\StickyNotesDesktop\bin\Release\StickyNotesDesktop.application
+C:\Users\korre\Desktop\shit\StickyNotesDesktop\StickyNotesDesktop\bin\Release\StickyNotesDesktop.pdb
+C:\Users\korre\Desktop\shit\StickyNotesDesktop\StickyNotesDesktop\obj\Release\StickyNotesDesktop.exe.manifest
+C:\Users\korre\Desktop\shit\StickyNotesDesktop\StickyNotesDesktop\obj\Release\StickyNotesDesktop.application
+C:\Users\korre\Desktop\Code\StickyNotesDesktop\StickyNotesDesktop\bin\Release\Sticky Notes Desktop.exe.config
+C:\Users\korre\Desktop\Code\StickyNotesDesktop\StickyNotesDesktop\bin\Release\Sticky Notes Desktop.exe.manifest
+C:\Users\korre\Desktop\Code\StickyNotesDesktop\StickyNotesDesktop\bin\Release\Sticky Notes Desktop.application
+C:\Users\korre\Desktop\Code\StickyNotesDesktop\StickyNotesDesktop\bin\Release\Sticky Notes Desktop.exe
+C:\Users\korre\Desktop\Code\StickyNotesDesktop\StickyNotesDesktop\bin\Release\Sticky Notes Desktop.pdb
+C:\Users\korre\Desktop\Code\StickyNotesDesktop\StickyNotesDesktop\obj\Release\StickyNotesDesktop.csprojResolveAssemblyReference.cache
+C:\Users\korre\Desktop\Code\StickyNotesDesktop\StickyNotesDesktop\obj\Release\StickyNotesDesktop.Form1.resources
+C:\Users\korre\Desktop\Code\StickyNotesDesktop\StickyNotesDesktop\obj\Release\StickyNotesDesktop.Properties.Resources.resources
+C:\Users\korre\Desktop\Code\StickyNotesDesktop\StickyNotesDesktop\obj\Release\StickyNotesDesktop.csproj.GenerateResource.Cache
+C:\Users\korre\Desktop\Code\StickyNotesDesktop\StickyNotesDesktop\obj\Release\Sticky Notes Desktop.exe.manifest
+C:\Users\korre\Desktop\Code\StickyNotesDesktop\StickyNotesDesktop\obj\Release\Sticky Notes Desktop.application
+C:\Users\korre\Desktop\Code\StickyNotesDesktop\StickyNotesDesktop\obj\Release\Sticky Notes Desktop.exe
+C:\Users\korre\Desktop\Code\StickyNotesDesktop\StickyNotesDesktop\obj\Release\Sticky Notes Desktop.pdb
